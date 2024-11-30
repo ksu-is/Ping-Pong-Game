@@ -13,7 +13,7 @@ SPRINT 2
 - [x] At least 6 commits
 
 SPRINT 3
-- [ ] Add a main home screen
-- [ ] Add multiplayer feature
-- [ ] Add difficulty feature
-- [ ] Create a PowerPoint slide introducing the project and upload it
+- [x] Add a main home screen
+- [x] Add multiplayer feature
+- [x] Add difficulty feature
+- [x] Create a PowerPoint slide introducing the project and upload it
