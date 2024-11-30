@@ -64,7 +64,7 @@ def main_menu():
         screen.blit(instructions_text, (WIDTH // 2 - instructions_text.get_width() // 2, HEIGHT // 2 - 80))
         
         control_text = small_font.render(
-            "1 Player Mode: WASD | 2 Player Mode: WASD + Arrow Keys", True, WHITE)
+            "1 Player Mode: W+S Keys | 2 Player Mode: W+S Keys + Arrow Keys", True, WHITE)
         screen.blit(control_text, (WIDTH // 2 - control_text.get_width() // 2, HEIGHT // 2 - 40))
         
         player_choice_text = small_font.render("1 Player (Press 1) / 2 Player (Press 2)", True, WHITE)
